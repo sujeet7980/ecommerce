@@ -1,7 +1,7 @@
 const mongoose= require('mongoose');
 const users= require('./data/User');
 const products= require('./data/Products')
-const User = require('./models/User');
+const User = require('./models//UserModel');
 const Product = require('./models/productSchema');
 const Order = require('./models/Orderschema');
 const dotenv= require('dotenv');
